@@ -2,3 +2,6 @@
 
 a <- rnorm(1000)
 plot(a)
+
+b <- rgamma(1000,1)
+plot(b)
